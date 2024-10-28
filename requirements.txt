@@ -1,0 +1,9 @@
+pandas
+boto3
+sagemaker
+numpy
+matplotlib
+gym
+gymnasium==0.28.1 
+shimmy==0.2.1 
+stable-baselines3==2.3.2
